@@ -1,0 +1,31 @@
+customer_id,first_name,last_name,email,phone,address,payment_id,payment_date,amount,payment_method
+1,Aarav,Patel,aarav.patel@email.com,91-98765-43210,"123 MG Road, Mumbai",21,2024-02-01,100.00,"Credit Card"
+2,Aisha,Kumar,aisha.kumar@email.com,91-87654-32109,"456 Nehru Street, Delhi",22,2024-02-03,75.50,PayPal
+3,Arjun,Sharma,arjun.sharma@email.com,91-76543-21098,"789 Gandhi Avenue, Bangalore",23,2024-02-05,120.00,"Credit Card"
+4,Ishika,Singh,ishika.singh@email.com,91-65432-10987,"101 Tagore Lane, Kolkata",24,2024-02-07,45.00,Cash
+5,Rohan,Verma,rohan.verma@email.com,91-54321-09876,"202 Jinnah Road, Chennai",25,2024-02-09,90.25,"Credit Card"
+6,Ananya,Gupta,ananya.gupta@email.com,91-43210-98765,"303 Subhas Nagar, Hyderabad",26,2024-02-11,60.00,PayPal
+7,Aryan,Mishra,aryan.mishra@email.com,91-32109-87654,"404 Bose Colony, Pune",27,2024-02-13,30.50,"Credit Card"
+8,Sanya,Rajput,sanya.rajput@email.com,91-21098-76543,"505 Patel Street, Ahmedabad",28,2024-02-15,110.00,Cash
+9,Vivaan,Choudhury,vivaan.choudhury@email.com,91-10987-65432,"606 Nehru Nagar, Jaipur",29,2024-02-17,75.75,"Credit Card"
+10,Zara,Khan,zara.khan@email.com,91-09876-54321,"707 Azad Road, Lucknow",30,2024-02-19,55.00,PayPal
+11,Aaradhya,Jaiswal,aaradhya.jaiswal@email.com,91-98765-43210,"808 Tagore Lane, Bhopal",31,2024-02-21,80.00,"Credit Card"
+12,Vihaan,Agarwal,vihaan.agarwal@email.com,91-87654-32109,"909 Bose Colony, Chandigarh",32,2024-02-23,40.50,Cash
+13,Advait,Malhotra,advait.malhotra@email.com,91-76543-21098,"101 Gandhi Avenue, Indore",33,2024-02-25,65.00,"Credit Card"
+14,Myra,Srivastava,myra.srivastava@email.com,91-65432-10987,"202 Subhas Nagar, Coimbatore",34,2024-02-27,95.25,PayPal
+15,Reyansh,Thakur,reyansh.thakur@email.com,91-54321-09876,"303 Jinnah Road, Nagpur",35,2024-02-29,120.00,"Credit Card"
+16,Ishani,Rawat,ishani.rawat@email.com,91-43210-98765,"404 Nehru Street, Kanpur",36,2024-03-02,50.00,Cash
+17,Shaan,Nair,shaan.nair@email.com,91-32109-87654,"505 Patel Street, Surat",37,2024-03-04,85.50,"Credit Card"
+18,Zoya,Iyer,zoya.iyer@email.com,91-21098-76543,"606 Bose Colony, Visakhapatnam",38,2024-03-06,70.25,PayPal
+19,Arnav,Menon,arnav.menon@email.com,91-10987-65432,"707 Azad Road, Thiruvananthapuram",39,2024-03-08,110.00,"Credit Card"
+20,Ira,Pillai,ira.pillai@email.com,91-09876-54321,"808 Tagore Lane, Ludhiana",40,2024-03-10,45.00,Cash
+1,Aarav,Patel,aarav.patel@email.com,91-98765-43210,"123 MG Road, Mumbai",41,2024-03-12,60.00,"Credit Card"
+2,Aisha,Kumar,aisha.kumar@email.com,91-87654-32109,"456 Nehru Street, Delhi",42,2024-03-14,42.75,PayPal
+3,Arjun,Sharma,arjun.sharma@email.com,91-76543-21098,"789 Gandhi Avenue, Bangalore",43,2024-03-16,95.00,"Credit Card"
+4,Ishika,Singh,ishika.singh@email.com,91-65432-10987,"101 Tagore Lane, Kolkata",44,2024-03-18,32.50,Cash
+5,Rohan,Verma,rohan.verma@email.com,91-54321-09876,"202 Jinnah Road, Chennai",45,2024-03-20,78.25,"Credit Card"
+6,Ananya,Gupta,ananya.gupta@email.com,91-43210-98765,"303 Subhas Nagar, Hyderabad",46,2024-03-22,55.50,PayPal
+7,Aryan,Mishra,aryan.mishra@email.com,91-32109-87654,"404 Bose Colony, Pune",47,2024-03-24,28.00,"Credit Card"
+8,Sanya,Rajput,sanya.rajput@email.com,91-21098-76543,"505 Patel Street, Ahmedabad",48,2024-03-26,120.00,Cash
+9,Vivaan,Choudhury,vivaan.choudhury@email.com,91-10987-65432,"606 Nehru Nagar, Jaipur",49,2024-03-28,90.75,"Credit Card"
+10,Zara,Khan,zara.khan@email.com,91-09876-54321,"707 Azad Road, Lucknow",50,2024-03-30,62.00,PayPal
