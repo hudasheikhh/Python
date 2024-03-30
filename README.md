@@ -1,5 +1,4 @@
-
-Title: Python Learning and Note-Taking Overview
+Python Learning and Note-Taking Overview
 
 Introduction:
 
@@ -8,15 +7,19 @@ Python is a widely-used programming language known for its simplicity and versat
 1. Getting Started:
 
 Learn Python syntax, variables, and basic control flow.
+
 2. Core Concepts:
 
 Dive into functions, OOP, and modules/packages.
+
 3. Data Structures & Algorithms:
 
 Explore lists, dictionaries, and libraries like NumPy and Pandas.
+
 4. Advanced Topics:
 
-Concurrency, web development with Django/Flask, ML/AI with ScikitLearn
+Concurrency, web development with Django/Flask, ML/AI with ScikitLearn.
+
 5. Note-Taking Strategies:
 
 Use tools like Jupyter Notebooks, structure notes by topics, include examples/exercises, and regularly review and update.
